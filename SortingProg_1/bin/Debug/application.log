@@ -1,0 +1,531 @@
+2015-09-20 12:47:39,330 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 12:47:39,342 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 12:47:41,566 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 12:47:41,574 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 12:47:43,372 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 12:47:44,209 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 12:47:44,212 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 12:47:46,967 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 12:47:49,488 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 12:47:49,492 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 12:47:50,760 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 13:35:51,585 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:35:51,599 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:35:54,150 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 13:35:54,156 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:35:54,733 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:35:55,469 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:35:55,472 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:35:56,967 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 13:36:23,868 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:36:23,872 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:36:25,707 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 13:36:25,711 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:36:26,942 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:36:27,377 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:36:27,381 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:36:30,839 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 13:36:31,478 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:36:31,491 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:36:33,638 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 13:37:29,433 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:37:29,447 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:37:30,574 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 13:37:30,578 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:37:32,071 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:37:33,131 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:37:33,135 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:37:34,563 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 13:37:36,762 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:37:36,766 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:37:38,468 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 13:37:57,054 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:37:57,067 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:37:58,706 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 13:37:58,712 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:37:59,617 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 13:38:00,285 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:38:00,289 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:38:01,563 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 13:38:08,562 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 13:38:08,565 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 13:38:10,411 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:05:36,572 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:05:36,608 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:05:39,026 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:10:37,151 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:10:37,164 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:10:38,764 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:10:38,770 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:10:39,728 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:10:40,791 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:10:40,795 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:10:45,663 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:10:47,653 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:10:47,657 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:10:49,239 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:10:49,242 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:10:50,629 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:10:51,826 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:10:51,830 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:10:56,151 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:10:57,827 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:10:57,831 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:10:59,509 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:10:59,513 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:11:00,268 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:11:01,175 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:11:01,180 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:11:02,352 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:11:06,702 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:11:06,706 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:11:08,871 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:11:08,874 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:11:09,725 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:11:10,624 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:11:10,630 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:11:13,269 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:11:24,185 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:11:24,192 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:11:30,955 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:14:47,942 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:14:47,961 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:14:52,306 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:14:52,312 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:14:53,331 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:14:54,157 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:14:54,173 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:14:54,179 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:15:29,677 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:15:29,697 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:15:31,195 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:15:31,200 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:15:33,170 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:15:33,858 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:15:33,869 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:15:33,874 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:15:43,233 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 14:15:43,237 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:19:22,422 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:19:22,437 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:19:23,918 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:19:23,922 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:19:25,670 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:19:27,133 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:19:27,140 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:19:27,143 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:19:46,084 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:19:59,243 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:19:59,257 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:20:03,518 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 14:20:03,524 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 14:20:03,531 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:20:03,536 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:20:03,540 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:20:06,688 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:21:07,338 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:21:07,364 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:21:09,318 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:21:09,323 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:21:11,021 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:21:11,885 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 14:21:11,885 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 14:21:11,885 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:21:11,885 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 14:21:11,905 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:21:11,910 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:21:29,998 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:21:30,040 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:21:33,267 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:21:33,273 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:21:34,370 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:21:35,192 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:21:35,192 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 14:21:35,192 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 14:21:35,192 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 14:21:35,208 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:21:35,212 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:22:03,711 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:22:39,367 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:22:39,380 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:22:41,146 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:22:41,157 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:22:42,385 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:22:43,117 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 14:22:43,117 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 14:22:43,121 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 14:22:43,120 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:22:43,120 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:22:43,148 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:27:18,398 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:27:18,411 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:27:20,596 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:27:20,601 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:27:22,171 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:27:22,877 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:27:22,879 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 14:27:22,879 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:27:22,881 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 14:27:22,881 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 14:27:22,890 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:41:54,440 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:41:54,459 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:05,564 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:42:05,569 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:42:07,073 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:42:07,963 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 14:42:07,963 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:42:07,963 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:42:07,963 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 14:42:07,966 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 14:42:07,981 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:26,706 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:42:26,727 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:30,397 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:42:30,402 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:42:31,176 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:42:31,774 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:42:31,779 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:34,410 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 14:42:38,227 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:42:38,231 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:39,879 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 14:42:39,883 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 14:42:39,887 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:42:39,890 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:41,324 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 14:42:42,606 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:42:42,610 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:42:44,409 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 14:45:17,225 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:45:17,248 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:45:24,702 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:45:24,716 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:45:26,235 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 14:45:26,242 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:45:27,024 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 14:45:27,677 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 14:45:27,688 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 14:45:29,846 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:05:16,035 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:05:16,056 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:17,344 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:05:17,348 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:05:18,122 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:05:18,855 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:05:18,855 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:05:18,859 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:25,555 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:05:25,559 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:27,282 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:05:27,289 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:27,614 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:05:27,618 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:27,819 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:05:27,823 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:28,001 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:05:28,005 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:33,589 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:05:33,602 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:39,177 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:05:39,183 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:05:40,315 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:05:42,930 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:05:42,930 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:05:42,934 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:05:59,229 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:05:59,233 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:06:26,776 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:06:26,788 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:06:28,687 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:06:28,693 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:06:30,325 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:06:31,404 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:06:55,026 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:06:55,039 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:06:56,222 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:06:56,229 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:06:57,118 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:06:58,196 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:08:15,983 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:08:16,009 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:08:17,388 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:08:17,391 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:08:17,987 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:08:18,731 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:08:18,737 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:08:18,740 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:14:23,391 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:14:23,403 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:14:25,470 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:14:25,475 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:14:26,340 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:14:26,950 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:14:26,950 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:14:26,951 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:14:39,943 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:14:39,957 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:14:41,734 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:14:41,739 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:14:42,614 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:14:43,250 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:14:43,252 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:14:43,254 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:14:43,252 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:14:43,302 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:14:43,308 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:15:14,588 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:15:14,591 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:15:44,671 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:15:44,684 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:15:46,266 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:15:46,271 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:15:46,956 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:15:47,493 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:15:47,494 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:15:47,502 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:15:47,507 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:16:37,136 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:16:37,150 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:16:38,653 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:16:38,658 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:16:39,487 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:16:40,141 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:16:40,147 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:16:40,151 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:16:51,511 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:16:51,515 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:32:14,375 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:32:14,388 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:32:17,679 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:32:17,684 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:32:18,939 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:32:19,573 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:32:19,580 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:32:19,583 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:32:27,390 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:32:27,394 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:33:36,557 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:33:36,591 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:33:39,026 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:33:39,031 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:33:42,997 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:33:44,901 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:33:44,901 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:33:44,912 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:33:44,916 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:35:12,904 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:35:12,917 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:35:14,931 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-20 16:35:14,937 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:35:16,228 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:35:17,432 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:35:17,432 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:35:17,432 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:35:17,432 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:35:59,767 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:35:59,806 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:36:01,787 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:36:01,793 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:36:01,825 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:36:01,827 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:36:01,835 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:36:01,827 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:36:57,044 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:36:57,057 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:36:59,023 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:36:59,032 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:36:59,041 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:36:59,042 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:36:59,053 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:36:59,043 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:36:59,042 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:37:22,171 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:37:22,190 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:37:23,353 INFO SortingProg_1.MainProgram -  input from consol is began
+2015-09-20 16:37:23,364 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-20 16:37:28,885 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:37:28,898 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:37:33,625 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:37:33,632 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:37:33,639 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:37:33,642 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:37:33,642 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:37:33,645 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:38:11,741 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:38:11,754 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:38:13,970 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:38:13,976 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:38:13,982 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:38:14,005 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:38:14,005 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:38:14,008 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:38:51,885 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:38:51,899 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:38:53,900 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:38:53,906 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:38:53,915 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:38:53,916 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:38:53,916 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:38:53,920 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:38:53,917 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:38:55,510 DEBUG SortingProg_1.MainProgram -  error in converting key
+2015-09-20 16:38:55,514 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:43:06,640 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:43:06,655 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:43:07,286 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:43:07,291 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:43:07,296 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:43:07,299 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:43:07,323 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:43:40,067 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:43:40,102 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:43:42,390 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:43:42,396 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:43:51,641 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:44:00,738 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:44:00,751 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:44:01,737 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:44:01,742 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:45:12,328 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:45:12,343 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:45:14,171 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:45:14,178 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:45:39,141 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:45:48,390 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:45:55,232 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:47:17,066 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:47:17,084 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:47:18,565 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:47:18,569 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:47:24,472 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:47:24,482 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:47:24,484 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:47:40,448 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:47:40,461 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:47:42,321 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:47:42,327 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:47:42,357 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:47:42,357 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:47:42,357 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:47:42,359 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:47:42,388 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:47:42,393 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:50:32,042 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:50:32,055 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:50:33,343 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:50:33,346 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:52:08,724 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:52:08,737 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:52:12,785 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:52:12,791 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:52:12,821 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:52:12,821 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:52:12,821 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:52:12,821 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:52:51,998 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:52:52,011 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:52:52,801 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:52:52,806 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:52:52,815 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:52:52,817 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:52:52,817 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:52:52,833 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:52:52,838 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:53:51,463 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:53:51,496 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:53:52,303 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:53:52,311 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:54:06,021 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:54:06,033 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:54:31,017 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:55:02,347 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:55:02,360 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:55:03,735 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:55:03,741 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:55:33,817 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:55:33,830 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:55:35,325 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:55:35,331 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:55:43,548 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:58:01,918 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:58:01,934 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:58:02,956 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:58:02,960 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:58:05,381 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:58:05,391 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:58:05,398 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:58:11,665 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 16:58:34,225 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:58:34,239 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:58:35,905 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:58:35,912 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:58:35,928 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:58:35,937 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:58:35,948 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:58:35,949 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:58:35,957 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:58:35,961 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:59:40,884 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:59:40,902 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 16:59:42,774 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 16:59:42,780 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 16:59:42,790 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 16:59:42,791 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 16:59:42,792 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 16:59:42,792 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 16:59:42,807 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 16:59:42,812 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 17:00:37,275 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 17:00:37,288 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 17:00:38,689 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 17:00:38,693 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 17:08:59,650 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 17:08:59,668 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 17:09:00,901 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 17:09:00,906 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 17:09:00,937 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 17:09:00,937 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 17:09:00,937 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 17:09:00,937 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 17:09:00,953 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 17:09:00,957 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 17:09:32,405 INFO SortingProg_1.MainProgram -  exit
+2015-09-20 17:12:26,305 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 17:12:26,326 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 17:12:29,861 INFO SortingProg_1.MainProgram -  iput from file is began
+2015-09-20 17:12:29,866 INFO SortingProg_1.MainProgram -  finding number from inputed string
+2015-09-20 17:12:29,897 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-20 17:12:29,897 INFO SortingProg_1.MainProgram -  shell sorting is began
+2015-09-20 17:12:29,898 INFO SortingProg_1.MainProgram -  choose sorting is began
+2015-09-20 17:12:29,898 INFO SortingProg_1.MainProgram -  standart sorting is began
+2015-09-20 17:12:29,913 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-20 17:12:29,918 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-20 17:12:36,527 INFO SortingProg_1.MainProgram -  exit
+2015-09-21 17:13:06,753 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:13:06,766 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:13:08,601 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-21 17:13:08,616 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-21 17:13:10,044 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-21 17:13:10,594 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:13:10,599 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:13:11,999 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-21 17:18:12,599 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:18:12,612 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:18:14,408 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-21 17:18:14,425 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-21 17:18:15,106 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-21 17:18:16,047 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:18:16,052 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:18:17,558 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-21 17:20:24,160 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:20:24,175 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:20:26,207 INFO SortingProg_1.MainProgram -  iput from random numbers is began
+2015-09-21 17:20:26,207 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-21 17:20:27,529 INFO SortingProg_1.MainProgram -  finding array size
+2015-09-21 17:20:28,307 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:20:28,322 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:20:29,354 INFO SortingProg_1.MainProgram -  bubble sorting is began
+2015-09-21 17:20:32,243 INFO SortingProg_1.MainProgram -  inputMethodChoose method is began
+2015-09-21 17:20:32,243 INFO SortingProg_1.MainProgram -  finding key is began
+2015-09-21 17:20:33,353 INFO SortingProg_1.MainProgram -  exit
