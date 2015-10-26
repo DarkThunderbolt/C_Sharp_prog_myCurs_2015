@@ -1,7 +1,0 @@
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\bin\Debug\SortingProg_1.exe.config
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\obj\Debug\SortingProg_1.exe
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\obj\Debug\SortingProg_1.pdb
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\bin\Debug\SortingProg_1.exe
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\bin\Debug\SortingProg_1.pdb
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\bin\Debug\log4net.dll
-E:\Projects\GitHub\Curs_prog\C_Sharp_prog_myCurs_2015.git\SortingProg_1\obj\Debug\SortingProg.csprojResolveAssemblyReference.cache

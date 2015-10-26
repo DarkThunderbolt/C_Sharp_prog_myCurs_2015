@@ -1,0 +1,8 @@
+E:\Projects\Sorting_MVC\Sorting_Choose\bin\Debug\Sorting_Choose.dll
+E:\Projects\Sorting_MVC\Sorting_Choose\bin\Debug\Sorting_Choose.pdb
+E:\Projects\Sorting_MVC\Sorting_Choose\bin\Debug\log4net.dll
+E:\Projects\Sorting_MVC\Sorting_Choose\bin\Debug\Sorting_ABase.dll
+E:\Projects\Sorting_MVC\Sorting_Choose\bin\Debug\Sorting_ABase.pdb
+E:\Projects\Sorting_MVC\Sorting_Choose\obj\Debug\Sorting_Choose.dll
+E:\Projects\Sorting_MVC\Sorting_Choose\obj\Debug\Sorting_Choose.pdb
+E:\Projects\Sorting_MVC\Sorting_Choose\obj\Debug\Sort_Choose.csprojResolveAssemblyReference.cache

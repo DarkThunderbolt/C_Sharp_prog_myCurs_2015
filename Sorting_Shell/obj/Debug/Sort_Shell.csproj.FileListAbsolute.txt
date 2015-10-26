@@ -1,0 +1,8 @@
+E:\Projects\Sorting_MVC\Sorting_Shell\bin\Debug\Sorting_Shell.dll
+E:\Projects\Sorting_MVC\Sorting_Shell\bin\Debug\Sorting_Shell.pdb
+E:\Projects\Sorting_MVC\Sorting_Shell\bin\Debug\log4net.dll
+E:\Projects\Sorting_MVC\Sorting_Shell\bin\Debug\Sorting_ABase.dll
+E:\Projects\Sorting_MVC\Sorting_Shell\bin\Debug\Sorting_ABase.pdb
+E:\Projects\Sorting_MVC\Sorting_Shell\obj\Debug\Sort_Shell.csprojResolveAssemblyReference.cache
+E:\Projects\Sorting_MVC\Sorting_Shell\obj\Debug\Sorting_Shell.dll
+E:\Projects\Sorting_MVC\Sorting_Shell\obj\Debug\Sorting_Shell.pdb

@@ -1,6 +1,0 @@
-E:\Projects\SortingProg_1\SortingProg_1\bin\Release\SortingProg_1.exe.config
-E:\Projects\SortingProg_1\SortingProg_1\bin\Release\SortingProg_1.exe
-E:\Projects\SortingProg_1\SortingProg_1\bin\Release\SortingProg_1.pdb
-E:\Projects\SortingProg_1\SortingProg_1\obj\Release\SortingProg_1.csprojResolveAssemblyReference.cache
-E:\Projects\SortingProg_1\SortingProg_1\obj\Release\SortingProg_1.exe
-E:\Projects\SortingProg_1\SortingProg_1\obj\Release\SortingProg_1.pdb
